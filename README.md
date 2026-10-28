@@ -8,26 +8,6 @@ Create a meeting, share the 8-character code, and everyone who joins sees and he
 
 ---
 
-## Table of contents
-
-- [Features](#features)
-- [Tech stack](#tech-stack)
-- [How it works](#how-it-works)
-- [Documentation](#documentation)
-- [Project structure](#project-structure)
-- [Getting started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [1. Run the backend](#1-run-the-backend)
-  - [2. Run the clients](#2-run-the-clients)
-  - [Testing a call](#testing-a-call)
-- [Configuration](#configuration)
-- [API reference](#api-reference)
-- [Frontend architecture](#frontend-architecture)
-- [Troubleshooting](#troubleshooting)
-- [Known limitations](#known-limitations)
-
----
-
 ## Features
 
 - Create a meeting or join one with a code
